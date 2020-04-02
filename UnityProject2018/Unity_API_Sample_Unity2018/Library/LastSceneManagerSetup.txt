@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Unity_API_Sample_Unity2018/Scenes/020_03_DotAndCrossExample/020_03_DotAndCrossExample.unity
+  isLoaded: 1
+  isActive: 1

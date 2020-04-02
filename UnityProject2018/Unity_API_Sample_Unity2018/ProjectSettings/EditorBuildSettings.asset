@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Unity_API_Sample_Unity2018/Scenes/023_PlayerPrefs/023_01_PlayerPrefs_Set.unity
+    guid: a38167c2930227d47bf0005f39b6ae15
+  - enabled: 1
+    path: Assets/Unity_API_Sample_Unity2018/Scenes/023_PlayerPrefs/023_02_PlayerPrefs_Get.unity
+    guid: fae0d53d5c790054f9749fe39eb41749
+  - enabled: 1
+    path: Assets/Unity_API_Sample_Unity2018/Scenes/000_DemoScene/DemoScene.unity
+    guid: 1aefeb5ead6ae854e9bbf9c5cc78b7e6
+  - enabled: 1
+    path: Assets/Unity_API_Sample_Unity2018/Scenes/000_SampleScene/SampleScene.unity
+    guid: 041da7923534316488f2f5106683b641
+  - enabled: 1
+    path: Assets/Unity_API_Sample_Unity2018/Scenes/002_LoadScene/002_LoadScene.unity
+    guid: 6151fc3761154814aa0e1167b86ab5fb
+  - enabled: 1
+    path: Assets/Unity_API_Sample_Unity2018/Scenes/016_OnMouseScene/OnMouseScene.unity
+    guid: 4e7992a7bb5739b4981746ef8597827f
+  m_configObjects: {}

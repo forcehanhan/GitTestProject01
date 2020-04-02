@@ -1,0 +1,6 @@
+//1、打开Windows=>Rendering=>Occlusion Culling面板
+//2、在Occlusion Culling面板中的Object选项中,点击"All",然后选中Herarchy面板中的所有模型(static 属性的模型)
+//3、在Occlusion Culling面板中的Visualization选项中,点击"Cameras",然后选中Herarchy面板中的所有Camera
+//4、在Bake中设置裁切的范围：Smallest Occluder：0.5，Smallest Jole：0.25，BackFace Threshold：100，然后点击下方的 烘焙Bake。
+//5、测试 : 在Scene中,移动相机,可以看到模型随着相机的或远或近的移动而或显示或隐藏.
+//6、关于Occlusion Areas，这是裁切的范围，它是一个BOX框，你可以创建一个Box框来实现哪些区域需要裁切。
